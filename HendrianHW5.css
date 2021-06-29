@@ -1,0 +1,25 @@
+
+.past {
+  background-color: gray;
+}
+
+.present {
+  background-color: red;
+}
+
+.future {
+  background-color: green;
+}
+
+textarea{
+  background: transparent;
+}
+
+.saveBtn{
+  color:black;
+  background-color: cornsilk;
+}
+
+SaveButton {
+  color: black
+}
